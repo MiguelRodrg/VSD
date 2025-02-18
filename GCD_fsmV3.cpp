@@ -2,6 +2,7 @@
 #include <vector>
 #define TEST_SIZE 30
 
+//Esta es una prueba de rama de git
 SC_MODULE(Comparator) {
     sc_in<sc_uint<32>> a, b;
     sc_out<bool> a_greater, a_equal, a_smaller;
