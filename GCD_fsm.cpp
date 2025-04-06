@@ -155,8 +155,8 @@ SC_MODULE(Testbench) {
     }
 };
 
-int sc_main(int argc, char* argv[]) {
-    Testbench tb("Testbench");
-    sc_start();
-    return 0;
-}
+//int sc_main(int argc, char* argv[]) {
+    //Testbench tb("Testbench");/*
+    //sc_start();
+    //return 0;
+//}*/
